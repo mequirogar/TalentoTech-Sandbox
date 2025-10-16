@@ -1,3 +1,0 @@
-Nombre: Daniel Castillejo
-Ciudad: Medellin
-Expectativa: Profundizar conocimientos sobre IA y su programacion
