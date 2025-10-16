@@ -1,0 +1,3 @@
+Nombre: Catalina Betancur
+Ciudad: Medellin
+Expectativa: Aprender los fundamentos de IA, mejorar la logica de programacion y aprneder python
