@@ -1,0 +1,3 @@
+Nombre: Leonardo 
+Ciudad: Medellin
+Expetactiva: Aprender a compender el lenguaje de progamacion y la IA
