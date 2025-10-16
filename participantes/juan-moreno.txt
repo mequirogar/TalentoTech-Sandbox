@@ -1,0 +1,3 @@
+Nombre: Juan Esteban Moreno Noriega (Juan Dream)
+Ciudad: Medellin
+Expectativas: Crear inteligencias artificiales rudimentarias de reconocimiento de imagenes o analisis de texto. 
