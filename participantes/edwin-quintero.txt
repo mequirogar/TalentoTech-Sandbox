@@ -1,0 +1,3 @@
+nombre: edwin quintero
+ciudad : La estrella
+Estoy en este curso para complementar mis estudios en ingenieria en sistemas
