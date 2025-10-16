@@ -1,0 +1,3 @@
+Nombre: Andres Gonzalez
+Ciudad: Cali
+Expectativa: Aprender sobre IA, y retomar nuevamente la programacion.
